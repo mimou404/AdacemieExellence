@@ -1,0 +1,57 @@
+fieldset{
+	width: 75%;
+	margin-left: 11%;
+	margin-top: 17rem;
+	padding-bottom: 10rem;
+	background: rgba(255,255, 255, .3);
+	background: linear-gradient(45deg, #FC066B, #3F5EFB);
+	border-radius: 60px;
+	backdrop-filter:blur(10px);
+	-webkit-backrop-filter: blur(10px);
+	-moz-backrop-filter: blur(18px);
+	box-shadow: 28px 20px 40px -6px rgba(0, 0, 0, .2);
+	border-color: white;
+}
+body{
+	background: linear-gradient(45deg,#3F5EFB , #FC066B);
+	background-size: 100vh 100vh;
+}
+
+input[type="submit"]{
+	margin-top: 2.5rem;
+	font-size: 2.5rem;
+	width: 17rem;
+	background-color: #3F3BBB;
+	text-align: center;
+	margin-left: 13rem;
+}
+h1{
+	color: white;
+	font-weight: 500;
+	font-size: 5rem;
+	text-align: center;
+	text-shadow: 2px 2px 4px rgba(0, 0, 0, .1);
+	margin-top: 0.7rem;
+}
+::placeholder{
+	color :white;
+	font-size: 2.5rem;
+}
+input{
+	background: transparent;
+	border-left: 1px solid rgba(255, 255, 255, .3);
+	border-top:  1px solid rgba(255, 255, 255, .3);
+	padding: 1rem;
+	font-size: 2.5rem;
+	width:40rem;
+	border-radius: 50px;
+	border-color: transparent;
+	border-bottom: 1px solid rgba(255, 255, 255, .3);
+	box-shadow: 4px 4px 68px rgba(0, 0, 0, .2);
+	color: white;
+	text-shadow: 2px 2px 4px rgba(0, 0, 0);
+	transition: all .3s;
+	margin-bottom: 2rem;
+	margin-left: 1rem;
+	font-family:andalus;
+}

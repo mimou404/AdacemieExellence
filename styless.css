@@ -1,0 +1,66 @@
+.logo{
+	background-image: url(img2/88.jpg);
+	background-color: white;
+	background-size: 100% 100%;
+	height: 550px;
+	width: 70%;
+	margin-left: 13%;
+	margin-top: 3%;
+	border-radius: 60px;
+}
+body{
+	background: linear-gradient(45deg,#3F5EFB , #FC066B);
+	background-size: 100vh 100vh;
+}
+.prin{
+	width: 85%;
+	margin-left: 7%;
+	padding-bottom: 10rem;
+	background: rgba(255,255, 255, .3);
+	background: linear-gradient(45deg, #FC066B, #3F5EFB);
+	border-radius: 60px;
+	border-left: 1px solid rgba(255, 255, 255, .3);
+	border-top:  1px solid rgba(255, 255, 255, .3);
+	backdrop-filter:blur(10px);
+	-webkit-backrop-filter: blur(10px);
+	-moz-backrop-filter: blur(18px);
+	box-shadow: 28px 20px 40px -6px rgba(0, 0, 0, .2);
+}
+
+ul{
+	font-weight: 500;
+	text-shadow: 2px 2px 4px rgba(0, 0, 0, .1);
+	font-family: andalus;
+	font-size: 3.5rem;
+	text-align: center;
+}
+th{
+	position: absolute;
+	left: 45%;
+}
+#st{
+	margin-left: 250px;
+}
+li{
+	font-weight: 500;
+	text-shadow: 2px 2px 4px rgba(0, 0, 0, .1);
+	font-family: andalus;
+	font-size: 3rem;
+	text-align: center;
+}
+p{
+	text-align: center;
+	font-size: 3.5rem;
+	font-family: andalus;
+	font-weight: 500;
+}
+h1{
+	color: white;
+	font-weight: 500;
+	font-size: 5rem;
+	text-align: center;
+	text-shadow: 2px 2px 4px rgba(0, 0, 0, .1);
+	margin-top: 0.7rem;
+	font-family: serif;
+	letter-spacing: 2px;
+}
